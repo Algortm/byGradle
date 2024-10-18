@@ -1,0 +1,11 @@
+# Ignore Gradle project-specific cache directory
+settings.gradle
+*.bat
+gradlew
+/utilities
+.idea
+.gradle
+/list
+buildSrc
+.gitattributes
+
